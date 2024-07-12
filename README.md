@@ -3,6 +3,7 @@
 <h5>Currently a CSE student at Chandigarh University'25</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryanraj25&label=Profile%20views&color=0e75b6&style=flat" alt="indranilchutia" /></p>
 <hr/>
+<a href="https://app.daily.dev/aaryanraj25"><img align="right" src="https://api.daily.dev/devcards/v2/Ck2ycPHLdur9oJjdtGqMl.png?type=default&r=jxv" width="35%" alt="Aaryan Raj's Dev Card"/></a>
 
 
 - 🌱 I’m currently learning **Backend, React Native & DSA**
